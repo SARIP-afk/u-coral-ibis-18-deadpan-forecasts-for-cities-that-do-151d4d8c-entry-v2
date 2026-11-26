@@ -12,6 +12,8 @@
 // absurdity is caused by the weather itself — gusts strong enough to
 // return everyone's lost umbrellas, unopened, to the wrong houses.
 // Three twists in one clause, reported deadpan like any other Tuesday.
+// The wind is the actor: no human does anything, which is what keeps
+// the line a forecast instead of a joke about people.
 // It replaces the standing entry ("hail the size of regrets", R1
 // #1692/1806): concrete and coherent where that line was abstract and
 // sunny-then-hail, funnier and more vivid on the judge's criteria.
